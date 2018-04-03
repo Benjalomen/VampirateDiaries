@@ -17,4 +17,4 @@ License
  - This project is licensed under the MIT License - see the LICENSE.md file for details
 
 Acknowledgments
- - Inspiration for this project comes from a deep love of the open seas and a strong disdain for Vampire Diaries
+ - Inspiration for this project comes from a deep love of the open seas and a strong disdain for my wife's favorite tv show...
